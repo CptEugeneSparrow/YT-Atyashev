@@ -1,3 +1,4 @@
-print("Good day!")
+print("Have a Good day!")
+
 
 
